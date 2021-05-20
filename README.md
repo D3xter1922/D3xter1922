@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development
 - ⚡ Fun fact: A family of ferrets is a business.
 
-[![D3xter1922's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3xter1922)](https://github.com/anuraghazra/github-readme-stats)
+[![D3xter1922's GitHub stats(trying to level up)](https://github-readme-stats.vercel.app/api?username=D3xter1922)](https://github.com/anuraghazra/github-readme-stats)
