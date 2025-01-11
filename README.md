@@ -5,4 +5,3 @@
 -->
 
 
-[![D3xter1922's GitHub stats(trying to level up)](https://github-readme-stats.vercel.app/api?username=D3xter1922)](https://github.com/anuraghazra/github-readme-stats)
